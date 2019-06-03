@@ -1,0 +1,18 @@
+.emoji {
+    font-size: 200px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.main {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
